@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/3rdbackground.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A fully functioning E-commerce website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A fully functioning e commerce website which can be used to buy products and also has a admin panel to manage the products and orders",
+    url: "https://nouvofashion.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Python ML/AI for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Tutored many bright brains in the field of Machine Learning and Artificial Intelligence",
+    url: "",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My resume ",
+    url: "https://drive.google.com/file/d/1LpBJsfDQPDMYzQ2s8q3EJtM21qjqQAfn/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Muggle Room - Video Conference Application",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "With screen sharing capabilities, private and group messaging, admin controls, and much more, this video chat app is the best group video conference app.",
+    url: "https://muggleroom.netlify.app/",
   },
 ];
 
